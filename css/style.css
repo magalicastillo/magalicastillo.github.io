@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Notable&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Mansalva&display=swap');
+
+body {
+  background-image: url("/images/skull_background.jpg");
+  font-family: 'Mansalva', cursive;
+  color: white;
+  font-size: 22pt;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-size: 30pt;
+  font-family: 'Notable', sans-serif;
+}
+
+p{
+  color: white;
+  font-family: monospace;
+  font-size: 22pt
+}
+
+a {
+  color: red;
+  text-decoration: none;
+  font-size: 22pt
+}
+a:hover {
+  color: orange;
+}
